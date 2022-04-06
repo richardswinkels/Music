@@ -1,5 +1,5 @@
 # Music - Laravel
-Deze repository bevat de broncode van de website van de Music website. De website is tevens te bezoeken via [deze link](https://richardswinkels.nl/projects/music/).
+Deze repository bevat de broncode van de Music website. De website is tevens te bezoeken via [deze link](https://richardswinkels.nl/projects/music/).
 
 Om dit project te draaien, clone de GitHub repo. 
 Voer vervolgens de volgende commando's uit: 
